@@ -117,10 +117,6 @@ Method private `cekDurasi(BisaDipinjam $objek)` pada `Peminjaman` cukup memanggi
 
 ## Contoh Output
 
-Tampilan di browser (XAMPP):
-
-![Output program di browser](images/output.png)
-
 Versi teks:
 
 ```text
